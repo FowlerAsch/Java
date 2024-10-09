@@ -25,9 +25,14 @@ Modulo Intermediário:
 - Genereics, Set, Map ☑️
 
 Modulo Avançado:
+
 - Programação Funcional e Lambda ☑️
-- SpringBoot ☑️
+- Design Patterns ☑️
+- Concurrency ☑️
+- Teste ☑️
+- APIs REST ☑️
+- Spring Boot ☑️
 - JDBC ☑️
 - Hibernate ☑️
-
+  
 Este repositório estará em constante mudança à medida que irei aprimorando meus conhecimentos
