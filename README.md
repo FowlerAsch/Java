@@ -5,10 +5,27 @@ Este repositório foi criado para documentar meu progresso e prática no aprendi
 ## Descrição do Projeto
 
 O objetivo deste repositório é fornecer um espaço para praticar conceitos fundamentais de Java, incluindo:
-- Estruturas de controle ✅
-- Funções✅
-- Orientação a objetos ✅
-- Manipulação de arquivos
-- etc...
 
-Estou assistindo e fazendo os exercicios de dois cursos de JAVA pela UDEMY e utilizando material gratuito na internet para desenvolver minhas habilidades
+Modulo Básico:
+- Estruturas de Sequencial ✅         
+- Estruturas de Controle ✅           
+- Estrutura Repetitivas ☑️            
+- Funções✅                            
+- Orientação a objetos ☑️
+- Herança e Polimorfismo ☑️            
+- Comportamento de Memória (Arrays)☑️ 
+- Data e Hora ☑️                        
+- Enumerações e Com posições ☑️
+- Herança e Polimorfismo ☑️
+- Tratamento de Execeções ☑️
+- Manipulação de arquivos ☑️
+- Interfaces ☑️
+- Genereics, Set, Map ☑️
+
+Modulo Avançado:
+- Programação Funcional e Lambda ☑️
+- SpringBoot ☑️
+- JDBC ☑️
+- Hibernate ☑️
+
+Este repositório estará em constante mudança à medida que irei aprimorando meus conhecimentos
