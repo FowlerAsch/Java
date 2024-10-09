@@ -1,6 +1,6 @@
 # Aprendizado em Java
 
-Este repositório foi criado para documentar meu progresso e prática no aprendizado de Java.\nAqui você encontrará exercícios, projetos e anotações que refletem meu entendimento e desenvolvimento de habilidades na linguagem.
+Este repositório foi criado para documentar meu progresso e prática no aprendizado de Java. Aqui você encontrará exercícios, projetos e anotações que refletem meu entendimento e desenvolvimento de habilidades na linguagem.
 
 ## Descrição do Projeto
 
