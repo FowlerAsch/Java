@@ -10,7 +10,9 @@ Modulo Básico:
 - Estruturas de Sequencial ✅         
 - Estruturas de Controle ✅           
 - Estrutura Repetitivas ☑️            
-- Funções✅                            
+- Funções✅
+
+Modulo Intermediário:                           
 - Orientação a objetos ☑️
 - Herança e Polimorfismo ☑️            
 - Comportamento de Memória (Arrays)☑️ 
