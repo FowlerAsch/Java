@@ -36,3 +36,15 @@ Modulo Avançado:
 - Hibernate ☑️
   
 Este repositório estará em constante mudança à medida que irei aprimorando meus conhecimentos
+
+## Exercicios realizadas até o momento:
+> [Estrutura Sequencial](NelioAlves/Exercicios/EstruturaSequencial)<br>
+> [Estrutura de Decisão](NelioAlves/Exercicios/EstruturaDecisao)<br>
+> [Funções](GeekUniversity/Exercicios/funcoes)<br>
+> [Programação Orientada à Objetos](NelioAlves/Exercicios/POO)<br>
+
+## Projetos Realizados:
+
+> Sem registro até o momento 
+
+
