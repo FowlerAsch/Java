@@ -2,7 +2,7 @@
 
 Este repositório foi criado para documentar meu progresso e prática no aprendizado de Java. Aqui você encontrará exercícios, projetos e anotações que refletem meu entendimento e desenvolvimento de habilidades na linguagem.
 
-## Descrição do Projeto
+## Descrição
 
 O objetivo deste repositório é fornecer um espaço para praticar conceitos fundamentais de Java, incluindo:
 
@@ -43,8 +43,12 @@ Este repositório estará em constante mudança à medida que irei aprimorando m
 > [Funções](GeekUniversity/Exercicios/funcoes)<br>
 > [Programação Orientada à Objetos](NelioAlves/Exercicios/POO)<br>
 
+## Estudo Teórico:
+
+> Em produção... Organizando minhas anotações para serem disponibilizadas aqui
+
 ## Projetos Realizados:
 
-> Sem registro até o momento 
+> Sem registro até o momento
 
 
