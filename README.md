@@ -37,7 +37,7 @@ Modulo Avançado:
   
 Este repositório estará em constante mudança à medida que irei aprimorando meus conhecimentos
 
-## Exercicios realizadas até o momento:
+## Exercicios realizados até o momento:
 > [Estrutura Sequencial](NelioAlves/Exercicios/EstruturaSequencial)<br>
 > [Estrutura de Decisão](NelioAlves/Exercicios/EstruturaDecisao)<br>
 > [Funções](GeekUniversity/Exercicios/funcoes)<br>
