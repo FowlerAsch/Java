@@ -45,7 +45,8 @@ Este repositório estará em constante mudança à medida que irei aprimorando m
 
 ## Estudo Teórico:
 
-> Em produção... Organizando minhas anotações para serem disponibilizadas aqui
+> [Repositório Teórico](https://github.com/FowlerAsch/EstudoTeoricoJava.git)<br>
+> Está em constante atualização ao decorrer do meu processo de estudo
 
 ## Projetos Realizados:
 
