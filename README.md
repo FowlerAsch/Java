@@ -52,4 +52,8 @@ Este repositório estará em constante mudança à medida que irei aprimorando m
 
 > Sem registro até o momento
 
-
+<h2 >Criador</h2>
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/higor-cabrall/"><img src="https://avatars.githubusercontent.com/u/104106899?s=400&u=6ae8d212fe0462f9af2b7b1227276bd78b9dcf51&v=4" width="100px;" alt="Homem branco com camisa preta em foto de perfil"/><br/><sub><b>Higor Cabral</b></sub></a></td>
+  </tr>
