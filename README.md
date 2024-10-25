@@ -13,12 +13,11 @@ Modulo Básico:
 - Funções✅
 
 Modulo Intermediário:                           
-- Orientação a objetos ☑️
-- Herança e Polimorfismo ☑️            
+- Orientação a objetos ✅
+- Herança e Polimorfismo ✅            
 - Comportamento de Memória (Arrays)☑️ 
 - Data e Hora ☑️                        
 - Enumerações e Com posições ☑️
-- Herança e Polimorfismo ☑️
 - Tratamento de Execeções ☑️
 - Manipulação de arquivos ☑️
 - Interfaces ☑️
