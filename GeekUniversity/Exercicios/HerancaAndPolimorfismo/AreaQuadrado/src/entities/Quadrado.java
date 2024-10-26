@@ -12,8 +12,8 @@ public class Quadrado {
 	
 	public Quadrado(double lado) {
 		this.lado = lado;
-		calcularArea();  // Já calcula a área ao criar o objeto
-		calcularPerimetro();  // Já calcula o perímetro ao criar o objeto
+		calcularArea(); 
+		calcularPerimetro(); 
 	}
 
 	public double calcularArea() {
