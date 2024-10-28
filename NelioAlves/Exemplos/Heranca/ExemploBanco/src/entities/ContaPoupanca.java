@@ -1,6 +1,6 @@
 package entities;
 
-public class ContaPoupanca extends Conta {
+public final class ContaPoupanca extends Conta {
 	
 	private double taxaDeJuros;
 	
