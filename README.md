@@ -17,8 +17,8 @@ Modulo Intermediário:
 - Herança e Polimorfismo ✅            
 - Comportamento de Memória (Arrays)☑️ 
 - Data e Hora ☑️                        
-- Enumerações e Com posições ☑️
-- Tratamento de Execeções ☑️
+- Enumerações e Com posições ✅
+- Tratamento de Execeções ✅
 - Manipulação de arquivos ☑️
 - Interfaces ☑️
 - Genereics, Set, Map ☑️
